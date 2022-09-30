@@ -4,4 +4,7 @@ this is chapter 3 paragraph.
 
 This is Paragraph 2
 
+Next paragraph
 New feature-romance
+some new paragraph
+
